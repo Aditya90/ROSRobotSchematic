@@ -1,2 +1,5 @@
 # ROSRobotSchematic
-Schematic for the ROS Robot
+
+# Schematic
+
+![schematic](./ros-robot-schematic.png)
